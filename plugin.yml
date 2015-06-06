@@ -1,0 +1,6 @@
+name: ItemServer
+author: ItzBulkDev/SavionLegendZzz
+version: 1.0
+main: ItemServer/Main
+api: [1.0.0]
+website: https://github.com/ItzBulkDev/ItemServer
